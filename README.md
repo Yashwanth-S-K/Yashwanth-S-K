@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanth-s-k" alt="yashwanth-s-k" /></a> </p>
 
-- 🔭 I’m currently working on [Health App](https://github.com/Yashwanth-S-K/Health_App)
+- 🔭 I’m currently working on LightSR.
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **CyberSecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yashwanth-S-K](https://github.com/Yashwanth-S-K)
 
